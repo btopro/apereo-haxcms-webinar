@@ -6,7 +6,7 @@
     <description>Apereo HAXcms webinar</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 05:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 13:35:41 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ELMS:LN</title>
@@ -212,7 +212,7 @@
       <title>Current efforts</title>
       <link>/current-efforts</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ WCFactory - github.com/elmsln/wcfactoryyarn global add @wcfactory/cliTooling to manage your web component librarylrnwebcomponents - github.com/elmsln/lrnwebcomponentsOur 166+ element library,  ]]>
       </description>
       <category></category>
       <guid>/current-efforts</guid>

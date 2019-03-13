@@ -3,7 +3,7 @@
   <title>Apereo webinar</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Apereo HAXcms webinar</subtitle>
-  <updated>2019-03-13T05:54:04+00:00</updated>
+  <updated>2019-03-13T13:35:41+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -251,13 +251,13 @@
   <entry>
     <title>Current efforts</title>
     <id>/current-efforts</id>
-    <updated>2019-03-13T13:35:41+00:00</updated>
+    <updated>2019-03-13T13:44:41+00:00</updated>
     <published>2019-03-13T13:35:41+00:00</published>
-    <summary></summary>
+    <summary>WCFactory - github.com/elmsln/wcfactoryyarn global add @wcfactory/cliTooling to manage your web component librarylrnwebcomponents - github.com/elmsln/lrnwebcomponentsOur 166+ element library, </summary>
     <link href="/current-efforts"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ WCFactory - github.com/elmsln/wcfactoryyarn global add @wcfactory/cliTooling to manage your web component librarylrnwebcomponents - github.com/elmsln/lrnwebcomponentsOur 166+ element library,  ]]>
     </content>
   </entry>
 </feed>
