@@ -217,10 +217,10 @@
             "order": 0,
             "parent": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
             "title": "JSON Outline Schema",
-            "description": "",
+            "description": "JSON Outline SchemaJSON Outline Schema is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related ",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552452800
             }
         },
         {
