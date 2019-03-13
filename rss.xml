@@ -9,7 +9,7 @@
     <lastBuildDate>Wed, 13 Mar 2019 05:54:04 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>ELMSLN</title>
+      <title>ELMS:LN</title>
       <link>/item-f09b6bde-8ac9-47b8-913c-089be98cb67f</link>
       <description>
           <![CDATA[ But you work on that project don't you?ELMS:LN is a series of projects, an umbrella term.Yes, it is in pursuit of NGDLE efforts.Yes, it is it's own code base and platform.Yes though, we pursue man ]]>
@@ -207,6 +207,16 @@
       <category></category>
       <guid>/published-location</guid>
       <pubDate>Fri, 13 Mar 6443 15:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Current efforts</title>
+      <link>/current-efforts</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/current-efforts</guid>
+      <pubDate>Mon, 13 Mar 4141 15:52:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
