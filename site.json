@@ -466,6 +466,14 @@
                         "type": "image\/png",
                         "name": "2019-03-13_09-49-26.png",
                         "size": 341520
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/apereo-haxcms-webinar\/files\/2019-03-13_09-49-34.png",
+                        "fullUrl": "\/_sites\/apereo-haxcms-webinar\/files\/2019-03-13_09-49-34.png",
+                        "url": "files\/2019-03-13_09-49-34.png",
+                        "type": "image\/png",
+                        "name": "2019-03-13_09-49-34.png",
+                        "size": 261032
                     }
                 ]
             }
