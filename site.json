@@ -288,7 +288,17 @@
             "description": "",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552449903,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-02-20_01-26-10.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-02-20_01-26-10.png",
+                        "url": "files\/2019-02-20_01-26-10.png",
+                        "type": "image\/png",
+                        "name": "2019-02-20_01-26-10.png",
+                        "size": 59026
+                    }
+                ]
             }
         },
         {
