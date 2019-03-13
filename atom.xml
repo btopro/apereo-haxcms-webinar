@@ -83,13 +83,13 @@
   <entry>
     <title>Making new elements</title>
     <id>https://btopro.github.io/apereo-webinar/making-new-elements</id>
-    <updated>2019-03-13T04:05:03+00:00</updated>
+    <updated>2019-03-13T04:30:57+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
-    <summary></summary>
+    <summary>Let's see what goes into the element called @lrnwebcomponents/example-hax-element in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents/example-hax-element/exam</summary>
     <link href="https://btopro.github.io/apereo-webinar/making-new-elements"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Let's see what goes into the element called @lrnwebcomponents/example-hax-element in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents/example-hax-element/exam ]]>
     </content>
   </entry>
   <entry>
