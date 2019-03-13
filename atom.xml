@@ -3,7 +3,7 @@
   <title>Apereo webinar</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Apereo HAXcms webinar</subtitle>
-  <updated>2019-03-13T13:46:10+00:00</updated>
+  <updated>2019-03-13T13:52:08+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -287,13 +287,13 @@
   <entry>
     <title>Features</title>
     <id>/features</id>
-    <updated>2019-03-13T13:52:08+00:00</updated>
+    <updated>2019-03-13T13:53:49+00:00</updated>
     <published>2019-03-13T13:52:08+00:00</published>
-    <summary></summary>
+    <summary>HAX edited content works with or without HAX (it writes HTML)Extendable via web component standardRich, accessible, and simple UX pattern for content authorsSearch remote sources, in context (like </summary>
     <link href="/features"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ HAX edited content works with or without HAX (it writes HTML)Extendable via web component standardRich, accessible, and simple UX pattern for content authorsSearch remote sources, in context (like  ]]>
     </content>
   </entry>
 </feed>

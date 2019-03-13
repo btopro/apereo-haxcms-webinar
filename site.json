@@ -498,10 +498,10 @@
             "order": 0,
             "parent": "item-5789b296-bf13-4bc2-9604-e89d2fc5459d",
             "title": "Features",
-            "description": "",
+            "description": "HAX edited content works with or without HAX (it writes HTML)Extendable via web component standardRich, accessible, and simple UX pattern for content authorsSearch remote sources, in context (like ",
             "metadata": {
                 "created": 1552485128,
-                "updated": 1552485128
+                "updated": 1552485229
             }
         }
     ]
