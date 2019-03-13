@@ -198,5 +198,15 @@
       <guid>/haxcms-1</guid>
       <pubDate>Fri, 13 Mar 9903 15:52:44 +0000</pubDate>
     </item>
+    <item>
+      <title>Published location</title>
+      <link>/published-location</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/published-location</guid>
+      <pubDate>Fri, 13 Mar 6443 15:52:45 +0000</pubDate>
+    </item>
   </channel>
 </rss>

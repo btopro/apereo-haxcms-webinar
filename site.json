@@ -7,7 +7,7 @@
     "metadata": {
         "siteName": "apereo-haxcms-webinar",
         "created": 1552449560,
-        "updated": 1552449965,
+        "updated": 1552456444,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
@@ -70,7 +70,7 @@
             "description": "But you work on that project don't you?ELMS:LN is a series of projects, an umbrella term.Yes, it is in pursuit of NGDLE efforts.Yes, it is it's own code base and platform.Yes though, we pursue man",
             "metadata": {
                 "created": 1552449559,
-                "updated": 1552450605,
+                "updated": 1552456443,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/ngdle-elms.png",
@@ -93,7 +93,7 @@
             "description": "What is HAX?HAX is short for Headless Authoring eXperience. It is a solution implemented via the web component standard which seeks to create the ultimate authoring solution for the web and impleme",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451383
+                "updated": 1552456443
             }
         },
         {
@@ -106,7 +106,7 @@
             "description": "Why? Well... Why is WordPress easier for authors to understand than Drupal?Why is Canvas easier to adopt then Sakai?Why is SquareSpace so popular that people forget it locks them into that platform ",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451150
+                "updated": 1552456443
             }
         },
         {
@@ -119,7 +119,7 @@
             "description": "Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451211
+                "updated": 1552456443
             }
         },
         {
@@ -132,7 +132,7 @@
             "description": "HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor \/ TinyMCE equivalent, but implemented and extended via the w",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451287
+                "updated": 1552456443
             }
         },
         {
@@ -145,7 +145,7 @@
             "description": "HAX provides plenty of ways to integrate into the platforms you already use! Here's a list of currently supported ones with links off to their associated pluginsHAXcms (duh, it's powering this websit",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451321
+                "updated": 1552456443
             }
         },
         {
@@ -158,7 +158,7 @@
             "description": "Let's see what goes into the element called @lrnwebcomponents\/example-hax-element\u00a0in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents\/example-hax-element\/e",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451673
+                "updated": 1552456443
             }
         },
         {
@@ -171,7 +171,7 @@
             "description": "So if there's HAXeditor... then what's HAXcms you might ask (the name of the webinar...)?HAXcms is a CMS built on the concept of what the lightest weight, static CMS could possibly be if...We have a",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552451990
+                "updated": 1552456443
             }
         },
         {
@@ -184,7 +184,7 @@
             "description": "We'll start with three unique examples (that we've all done).A slide player. This site is a testbed but illustrates a simple back and forth navigational pattern.A blog website, my own blog in fac",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552452320
+                "updated": 1552456443
             }
         },
         {
@@ -197,7 +197,7 @@
             "description": "There are a few basic ingredients that make up and HAXcms website:HAXeditor is used to modify the contentWeb components make up the body of contentAll \"content\" is housed under a folder in pages\/pa",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552456340,
+                "updated": 1552456443,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/HAXCms workflow-1.jpg",
@@ -220,7 +220,7 @@
             "description": "JSON Outline SchemaJSON Outline Schema is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related ",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552452800
+                "updated": 1552456443
             }
         },
         {
@@ -233,7 +233,7 @@
             "description": "HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453111,
+                "updated": 1552456443,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-22-48.png",
@@ -288,7 +288,7 @@
             "description": "HAXcms requires being published in order to be visible by users. Working locally or on Desktop or on a server is akin to you writing a document on your computer. It's not shared with anyone. Then, whe",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453179,
+                "updated": 1552456443,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-02-20_01-26-10.png",
@@ -319,7 +319,7 @@
             "description": "Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453226
+                "updated": 1552456443
             }
         },
         {
@@ -332,7 +332,7 @@
             "description": "While you're not required to use them, HAXcms supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of h",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453325,
+                "updated": 1552456443,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-03-12_16-45-51-1.png",
@@ -355,7 +355,7 @@
             "description": "HAXcms utilizes a library called mobx in order to do its state management. HAXcms (and HAXeditor) follow the design paradigm promoted by Google's Polymer project of Props down, Events up.Meaning t",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453958
+                "updated": 1552456443
             }
         },
         {
@@ -368,7 +368,7 @@
             "description": "ELMS:LN has it's own roadmap but HAX as a whole has derailed it quite a bit given it's potential for the open web and impacts it will have on the ELMS:LN roadmap as far as authoring and user experienc",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453470
+                "updated": 1552456444
             }
         },
         {
@@ -381,7 +381,7 @@
             "description": "Integrate ES6 version with ELMS:LN (March '19)Improve mobile editing experience (March '19)Improve Grid plate \/ responsive design capabilities (April '19)Table editing capabilities (April\u00a0'19)",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453824
+                "updated": 1552456444
             }
         },
         {
@@ -394,7 +394,20 @@
             "description": "Create additional \"site-\" core theme elements making it easier to theme HAXcms and produce new themes (March '19)Support multiple Import formats including WordPress, Drupal, Gitbook, GravCMS and mo",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552454256
+                "updated": 1552456444
+            }
+        },
+        {
+            "id": "item-93cc5203-7307-46e2-879c-6be10b99a6cb",
+            "indent": 2,
+            "location": "pages\/published-location\/index.html",
+            "order": 2,
+            "parent": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
+            "title": "Published location",
+            "description": "",
+            "metadata": {
+                "created": 1552456443,
+                "updated": 1552456443
             }
         }
     ]
