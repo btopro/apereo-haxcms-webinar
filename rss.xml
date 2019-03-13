@@ -6,7 +6,7 @@
     <description>Apereo HAXcms webinar</description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Mar 2019 04:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 05:54:04 +0000</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ELMSLN</title>
@@ -202,7 +202,7 @@
       <title>Published location</title>
       <link>/published-location</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ HAXcms is predicated on publishing some place. All the edits you see currently are kept in local version control. When you hit the bottom right gear and then publish, that's what makes it live.In the ]]>
       </description>
       <category></category>
       <guid>/published-location</guid>

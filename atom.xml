@@ -3,7 +3,7 @@
   <title>Apereo webinar</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Apereo HAXcms webinar</subtitle>
-  <updated>2019-03-13T04:06:05+00:00</updated>
+  <updated>2019-03-13T05:54:04+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -239,13 +239,13 @@
   <entry>
     <title>Published location</title>
     <id>/published-location</id>
-    <updated>2019-03-13T05:54:03+00:00</updated>
+    <updated>2019-03-13T05:55:22+00:00</updated>
     <published>2019-03-13T05:54:03+00:00</published>
-    <summary></summary>
+    <summary>HAXcms is predicated on publishing some place. All the edits you see currently are kept in local version control. When you hit the bottom right gear and then publish, that's what makes it live.In the</summary>
     <link href="/published-location"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ HAXcms is predicated on publishing some place. All the edits you see currently are kept in local version control. When you hit the bottom right gear and then publish, that's what makes it live.In the ]]>
     </content>
   </entry>
 </feed>

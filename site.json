@@ -404,10 +404,10 @@
             "order": 2,
             "parent": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
             "title": "Published location",
-            "description": "",
+            "description": "HAXcms is predicated on publishing some place. All the edits you see currently are kept in local version control. When you hit the bottom right gear and then publish, that's what makes it live.In the",
             "metadata": {
                 "created": 1552456443,
-                "updated": 1552456443
+                "updated": 1552456522
             }
         }
     ]
