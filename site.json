@@ -197,7 +197,17 @@
             "description": "",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552449903,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/HAXCms workflow-1.jpg",
+                        "fullUrl": "\/_sites\/webinar\/files\/HAXCms workflow-1.jpg",
+                        "url": "files\/HAXCms workflow-1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "HAXCms workflow-1.jpg",
+                        "size": 72736
+                    }
+                ]
             }
         },
         {
