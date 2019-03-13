@@ -230,10 +230,10 @@
             "order": 1,
             "parent": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
             "title": "Web components + HTML = index.html",
-            "description": "",
+            "description": "HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552453005
             }
         },
         {
