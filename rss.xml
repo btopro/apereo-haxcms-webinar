@@ -218,5 +218,25 @@
       <guid>/current-efforts</guid>
       <pubDate>Mon, 13 Mar 4141 15:52:48 +0000</pubDate>
     </item>
+    <item>
+      <title>What is it?</title>
+      <link>/what-is-it-</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/what-is-it-</guid>
+      <pubDate>Fri, 13 Mar 4725 15:52:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Philosophy of design</title>
+      <link>/philosophy-of-design</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/philosophy-of-design</guid>
+      <pubDate>Fri, 13 Mar 4725 15:52:48 +0000</pubDate>
+    </item>
   </channel>
 </rss>
