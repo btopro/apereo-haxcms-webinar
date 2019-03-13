@@ -3,7 +3,7 @@
   <title>Apereo webinar</title>
   <link href="/atom.xml" rel="self" />
   <subtitle>Apereo HAXcms webinar</subtitle>
-  <updated>2019-03-13T13:45:25+00:00</updated>
+  <updated>2019-03-13T13:45:35+00:00</updated>
   <author>
       <name>Bryan Ollendyke</name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>ELMS:LN</title>
     <id>/item-f09b6bde-8ac9-47b8-913c-089be98cb67f</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T03:59:19+00:00</published>
     <summary>But you work on that project don't you?ELMS:LN is a series of projects, an umbrella term.Yes, it is in pursuit of NGDLE efforts.Yes, it is it's own code base and platform.Yes though, we pursue man</summary>
     <link href="/item-f09b6bde-8ac9-47b8-913c-089be98cb67f"/>
@@ -23,7 +23,7 @@
   <entry>
     <title>HAX</title>
     <id>/hax</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>What is HAX?HAX is short for Headless Authoring eXperience. It is a solution implemented via the web component standard which seeks to create the ultimate authoring solution for the web and impleme</summary>
     <link href="/hax"/>
@@ -35,7 +35,7 @@
   <entry>
     <title>Why</title>
     <id>/why</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Why? Well... Why is WordPress easier for authors to understand than Drupal?Why is Canvas easier to adopt then Sakai?Why is SquareSpace so popular that people forget it locks them into that platform </summary>
     <link href="/why"/>
@@ -47,7 +47,7 @@
   <entry>
     <title>Philosophy</title>
     <id>/philosophy</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA</summary>
     <link href="/philosophy"/>
@@ -59,7 +59,7 @@
   <entry>
     <title>HAXEditor</title>
     <id>/haxeditor</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor / TinyMCE equivalent, but implemented and extended via the w</summary>
     <link href="/haxeditor"/>
@@ -71,7 +71,7 @@
   <entry>
     <title>Integrations</title>
     <id>/integrations</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAX provides plenty of ways to integrate into the platforms you already use! Here's a list of currently supported ones with links off to their associated pluginsHAXcms (duh, it's powering this websit</summary>
     <link href="/integrations"/>
@@ -83,7 +83,7 @@
   <entry>
     <title>Making new elements</title>
     <id>/making-new-elements</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Let's see what goes into the element called @lrnwebcomponents/example-hax-element in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents/example-hax-element/e</summary>
     <link href="/making-new-elements"/>
@@ -95,7 +95,7 @@
   <entry>
     <title>HAXcms</title>
     <id>/haxcms</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>So if there's HAXeditor... then what's HAXcms you might ask (the name of the webinar...)?HAXcms is a CMS built on the concept of what the lightest weight, static CMS could possibly be if...We have a</summary>
     <link href="/haxcms"/>
@@ -107,7 +107,7 @@
   <entry>
     <title>Demo / Examples</title>
     <id>/demo-/-examples</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>We'll start with three unique examples (that we've all done).A slide player. This site is a testbed but illustrates a simple back and forth navigational pattern.A blog website, my own blog in fac</summary>
     <link href="/demo-/-examples"/>
@@ -119,7 +119,7 @@
   <entry>
     <title>What makes a site</title>
     <id>/what-makes-a-site</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>There are a few basic ingredients that make up and HAXcms website:HAXeditor is used to modify the contentWeb components make up the body of contentAll "content" is housed under a folder in pages/pa</summary>
     <link href="/what-makes-a-site"/>
@@ -131,7 +131,7 @@
   <entry>
     <title>JSON Outline Schema</title>
     <id>/json-outline-schema</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>JSON Outline SchemaJSON Outline Schema is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related </summary>
     <link href="/json-outline-schema"/>
@@ -143,7 +143,7 @@
   <entry>
     <title>Web components + HTML = index.html</title>
     <id>/web-components-html-index-html</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA</summary>
     <link href="/web-components-html-index-html"/>
@@ -155,7 +155,7 @@
   <entry>
     <title>Publishing</title>
     <id>/publishing</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAXcms requires being published in order to be visible by users. Working locally or on Desktop or on a server is akin to you writing a document on your computer. It's not shared with anyone. Then, whe</summary>
     <link href="/publishing"/>
@@ -167,7 +167,7 @@
   <entry>
     <title>Theme layer</title>
     <id>/theme-layer</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see</summary>
     <link href="/theme-layer"/>
@@ -179,7 +179,7 @@
   <entry>
     <title>Special elements</title>
     <id>/special-elements</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>While you're not required to use them, HAXcms supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of h</summary>
     <link href="/special-elements"/>
@@ -191,7 +191,7 @@
   <entry>
     <title>State management</title>
     <id>/state-management</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAXcms utilizes a library called mobx in order to do its state management. HAXcms (and HAXeditor) follow the design paradigm promoted by Google's Polymer project of Props down, Events up.Meaning t</summary>
     <link href="/state-management"/>
@@ -203,7 +203,7 @@
   <entry>
     <title>Roadmap</title>
     <id>/roadmap</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>ELMS:LN has it's own roadmap but HAX as a whole has derailed it quite a bit given it's potential for the open web and impacts it will have on the ELMS:LN roadmap as far as authoring and user experienc</summary>
     <link href="/roadmap"/>
@@ -215,7 +215,7 @@
   <entry>
     <title>HAXeditor</title>
     <id>/haxeditor-1</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Integrate ES6 version with ELMS:LN (March '19)Improve mobile editing experience (March '19)Improve Grid plate / responsive design capabilities (April '19)Table editing capabilities (April '19)</summary>
     <link href="/haxeditor-1"/>
@@ -227,7 +227,7 @@
   <entry>
     <title>HAXcms</title>
     <id>/haxcms-1</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Create additional "site-" core theme elements making it easier to theme HAXcms and produce new themes (March '19)Support multiple Import formats including WordPress, Drupal, Gitbook, GravCMS and mo</summary>
     <link href="/haxcms-1"/>
@@ -239,7 +239,7 @@
   <entry>
     <title>Published location</title>
     <id>/published-location</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T05:54:03+00:00</published>
     <summary>HAXcms is predicated on publishing some place. All the edits you see currently are kept in local version control. When you hit the bottom right gear and then publish, that's what makes it live.In the</summary>
     <link href="/published-location"/>
@@ -251,7 +251,7 @@
   <entry>
     <title>Current efforts</title>
     <id>/current-efforts</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T13:35:41+00:00</published>
     <summary>WCFactory - github.com/elmsln/wcfactoryyarn global add @wcfactory/cliTooling to manage your web component librarylrnwebcomponents - github.com/elmsln/lrnwebcomponentsOur 166+ element library, </summary>
     <link href="/current-efforts"/>
@@ -263,7 +263,7 @@
   <entry>
     <title>What is it?</title>
     <id>/what-is-it-</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T13:45:25+00:00</published>
     <summary></summary>
     <link href="/what-is-it-"/>
@@ -275,7 +275,7 @@
   <entry>
     <title>Philosophy of design</title>
     <id>/philosophy-of-design</id>
-    <updated>2019-03-13T13:45:35+00:00</updated>
+    <updated>2019-03-13T13:46:10+00:00</updated>
     <published>2019-03-13T13:45:25+00:00</published>
     <summary></summary>
     <link href="/philosophy-of-design"/>
