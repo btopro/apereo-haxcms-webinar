@@ -1,20 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>webinar</title>
-  <link href="https://btopro.github.io/webinar/atom.xml" rel="self" />
-  <subtitle></subtitle>
-  <updated>2019-03-13T03:59:20+00:00</updated>
+  <title>Apereo webinar</title>
+  <link href="https://btopro.github.io/apereo-webinar/atom.xml" rel="self" />
+  <subtitle>Apereo HAXcms webinar</subtitle>
+  <updated>2019-03-13T04:06:05+00:00</updated>
   <author>
       <name></name>
   </author>
-  <id>https://btopro.github.io/webinar/feed</id>
+  <id>https://btopro.github.io/apereo-webinar/feed</id>
   <entry>
     <title>ELMSLN</title>
-    <id>https://btopro.github.io/webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f</id>
+    <id>https://btopro.github.io/apereo-webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f</id>
     <updated>2019-03-13T04:05:03+00:00</updated>
     <published>2019-03-13T03:59:19+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f"/>
+    <link href="https://btopro.github.io/apereo-webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAX</title>
+    <id>https://btopro.github.io/apereo-webinar/hax</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/hax"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Why</title>
+    <id>https://btopro.github.io/apereo-webinar/why</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/why"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Philosophy</title>
+    <id>https://btopro.github.io/apereo-webinar/philosophy</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/philosophy"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAXEditor</title>
+    <id>https://btopro.github.io/apereo-webinar/haxeditor</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/haxeditor"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Integrations</title>
+    <id>https://btopro.github.io/apereo-webinar/integrations</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/integrations"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Making new elements</title>
+    <id>https://btopro.github.io/apereo-webinar/making-new-elements</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/making-new-elements"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAXcms</title>
+    <id>https://btopro.github.io/apereo-webinar/haxcms</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/haxcms"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Demo / Examples</title>
+    <id>https://btopro.github.io/apereo-webinar/demo-/-examples</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/demo-/-examples"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>What makes a "site"</title>
+    <id>https://btopro.github.io/apereo-webinar/what-makes-a-site-</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/what-makes-a-site-"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>JSON Outline Schema</title>
+    <id>https://btopro.github.io/apereo-webinar/json-outline-schema</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/json-outline-schema"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Web components + HTML = index.html</title>
+    <id>https://btopro.github.io/apereo-webinar/web-components-html-index-html</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/web-components-html-index-html"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Publishing</title>
+    <id>https://btopro.github.io/apereo-webinar/publishing</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/publishing"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Theme layer</title>
+    <id>https://btopro.github.io/apereo-webinar/theme-layer</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/theme-layer"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Special elements</title>
+    <id>https://btopro.github.io/apereo-webinar/special-elements</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/special-elements"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>State management</title>
+    <id>https://btopro.github.io/apereo-webinar/state-management</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/state-management"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Roadmap</title>
+    <id>https://btopro.github.io/apereo-webinar/roadmap</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/roadmap"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAXeditor</title>
+    <id>https://btopro.github.io/apereo-webinar/haxeditor-1</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/haxeditor-1"/>
+    
+    <content type="html">
+      <![CDATA[  ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>HAXcms</title>
+    <id>https://btopro.github.io/apereo-webinar/haxcms-1</id>
+    <updated>2019-03-13T04:05:03+00:00</updated>
+    <published>2019-03-13T04:05:03+00:00</published>
+    <summary></summary>
+    <link href="https://btopro.github.io/apereo-webinar/haxcms-1"/>
     
     <content type="html">
       <![CDATA[  ]]>

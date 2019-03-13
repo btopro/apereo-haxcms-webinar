@@ -70,7 +70,17 @@
             "description": "",
             "metadata": {
                 "created": 1552449559,
-                "updated": 1552449903
+                "updated": 1552449903,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/ngdle-elms.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/ngdle-elms.png",
+                        "url": "files\/ngdle-elms.png",
+                        "type": "image\/png",
+                        "name": "ngdle-elms.png",
+                        "size": 352996
+                    }
+                ]
             }
         },
         {
