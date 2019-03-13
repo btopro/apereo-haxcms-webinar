@@ -297,6 +297,14 @@
                         "type": "image\/png",
                         "name": "2019-02-20_01-26-10.png",
                         "size": 59026
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-02-20_01-26-01.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-02-20_01-26-01.png",
+                        "url": "files\/2019-02-20_01-26-01.png",
+                        "type": "image\/png",
+                        "name": "2019-02-20_01-26-01.png",
+                        "size": 19448
                     }
                 ]
             }
