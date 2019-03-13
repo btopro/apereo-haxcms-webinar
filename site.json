@@ -142,10 +142,10 @@
             "order": 0,
             "parent": "item-cc57df96-6172-42d7-acd6-9371cfcc9c16",
             "title": "Integrations",
-            "description": "",
+            "description": "HAX provides plenty of ways to integrate into the platforms you already use! Here's a list of currently supported ones with links off to their associated pluginsHAXcms (duh, it's powering this websit",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552451321
             }
         },
         {
