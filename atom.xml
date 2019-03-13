@@ -263,13 +263,13 @@
   <entry>
     <title>What is it?</title>
     <id>/what-is-it-</id>
-    <updated>2019-03-13T13:46:10+00:00</updated>
+    <updated>2019-03-13T13:50:38+00:00</updated>
     <published>2019-03-13T13:45:25+00:00</published>
-    <summary></summary>
+    <summary>HAXeditor interface elements. A wrapper on HTML / web component standard to make it editableIt turns the front end of the web site into an APIAnd can stitch together remote sources of data with ease</summary>
     <link href="/what-is-it-"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ HAXeditor interface elements. A wrapper on HTML / web component standard to make it editableIt turns the front end of the web site into an APIAnd can stitch together remote sources of data with ease ]]>
     </content>
   </entry>
   <entry>

@@ -430,10 +430,10 @@
             "order": 0,
             "parent": "item-5789b296-bf13-4bc2-9604-e89d2fc5459d",
             "title": "What is it?",
-            "description": "",
+            "description": "HAXeditor interface elements. A wrapper on HTML \/ web component standard to make it editableIt turns the front end of the web site into an APIAnd can stitch together remote sources of data with ease",
             "metadata": {
                 "created": 1552484725,
-                "updated": 1552484770,
+                "updated": 1552485038,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/apereo-haxcms-webinar\/files\/2019-03-13_09-46-58.png",
