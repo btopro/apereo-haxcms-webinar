@@ -1,28 +1,28 @@
 {
     "id": "2a41988b-f670-47d0-ad12-36d944108145",
-    "title": "webinar",
-    "author": "",
-    "description": "",
+    "title": "Apereo webinar",
+    "author": "Bryan Ollendyke",
+    "description": "Apereo HAXcms webinar",
     "license": "by-sa",
     "metadata": {
         "siteName": "webinar",
-        "domain": "https:\/\/btopro.github.io\/webinar",
+        "domain": "https:\/\/btopro.github.io\/apereo-haxcms-webinar",
         "created": 1552449560,
-        "updated": 1552449560,
+        "updated": 1552449965,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
             "name": "Learn2"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "hexCode": "#0059ff",
+        "cssVariable": "blue",
         "publishing": {
             "git": {
                 "vendor": "github",
                 "branch": "gh-pages",
-                "url": "git@github.com:elmsln\/webinar.git",
-                "cdn": "webcomponents.psu.edu"
+                "url": "git@github.com:btopro\/apereo-haxcms-webinar.git",
+                "cdn": "cdn.waxam.io"
             }
         },
         "dynamicElementLoader": {
@@ -58,7 +58,7 @@
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1552454355
+        "lastPublished": 1552454288
     },
     "items": [
         {
@@ -67,11 +67,335 @@
             "location": "pages\/item-f09b6bde-8ac9-47b8-913c-089be98cb67f\/index.html",
             "order": 0,
             "parent": null,
-            "title": "New page",
-            "description": "",
+            "title": "ELMSLN",
+            "description": "But you work on that project don't you?ELMS:LN is a series of projects, an umbrella term.Yes, it is in pursuit of NGDLE efforts.Yes, it is it's own code base and platform.Yes though, we pursue man",
             "metadata": {
                 "created": 1552449559,
-                "updated": 1552449559
+                "updated": 1552450605,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/ngdle-elms.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/ngdle-elms.png",
+                        "url": "files\/ngdle-elms.png",
+                        "type": "image\/png",
+                        "name": "ngdle-elms.png",
+                        "size": 352996
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-5789b296-bf13-4bc2-9604-e89d2fc5459d",
+            "indent": 0,
+            "location": "pages\/hax\/index.html",
+            "order": 1,
+            "parent": null,
+            "title": "HAX",
+            "description": "What is HAX?HAX is short for Headless Authoring eXperience. It is a solution implemented via the web component standard which seeks to create the ultimate authoring solution for the web and impleme",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451383
+            }
+        },
+        {
+            "id": "item-85be4473-e1e6-47d6-acc0-6c1173f2e15d",
+            "indent": 1,
+            "location": "pages\/why\/index.html",
+            "order": 0,
+            "parent": "item-5789b296-bf13-4bc2-9604-e89d2fc5459d",
+            "title": "Why",
+            "description": "Why? Well... Why is WordPress easier for authors to understand than Drupal?Why is Canvas easier to adopt then Sakai?Why is SquareSpace so popular that people forget it locks them into that platform ",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451150
+            }
+        },
+        {
+            "id": "item-d7e61d33-7a10-4181-89ba-35e52c4104e6",
+            "indent": 1,
+            "location": "pages\/philosophy\/index.html",
+            "order": 1,
+            "parent": "item-5789b296-bf13-4bc2-9604-e89d2fc5459d",
+            "title": "Philosophy",
+            "description": "Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451211
+            }
+        },
+        {
+            "id": "item-cc57df96-6172-42d7-acd6-9371cfcc9c16",
+            "indent": 0,
+            "location": "pages\/haxeditor\/index.html",
+            "order": 2,
+            "parent": null,
+            "title": "HAXEditor",
+            "description": "HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor \/ TinyMCE equivalent, but implemented and extended via the w",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451287
+            }
+        },
+        {
+            "id": "item-c071262d-0dd2-4218-88e1-aae2de28058d",
+            "indent": 1,
+            "location": "pages\/integrations\/index.html",
+            "order": 0,
+            "parent": "item-cc57df96-6172-42d7-acd6-9371cfcc9c16",
+            "title": "Integrations",
+            "description": "HAX provides plenty of ways to integrate into the platforms you already use! Here's a list of currently supported ones with links off to their associated pluginsHAXcms (duh, it's powering this websit",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451321
+            }
+        },
+        {
+            "id": "item-bd26167c-ee07-445c-bce5-aa2aa34ecaff",
+            "indent": 1,
+            "location": "pages\/making-new-elements\/index.html",
+            "order": 1,
+            "parent": "item-cc57df96-6172-42d7-acd6-9371cfcc9c16",
+            "title": "Making new elements",
+            "description": "Let's see what goes into the element called @lrnwebcomponents\/example-hax-element\u00a0in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents\/example-hax-element\/e",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451673
+            }
+        },
+        {
+            "id": "item-9103145c-d969-412b-b579-4e099b567d43",
+            "indent": 0,
+            "location": "pages\/haxcms\/index.html",
+            "order": 3,
+            "parent": null,
+            "title": "HAXcms",
+            "description": "So if there's HAXeditor... then what's HAXcms you might ask (the name of the webinar...)?HAXcms is a CMS built on the concept of what the lightest weight, static CMS could possibly be if...We have a",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552451990
+            }
+        },
+        {
+            "id": "item-c15134e4-7109-4b3c-822a-ffab3905e342",
+            "indent": 1,
+            "location": "pages\/demo-\/-examples\/index.html",
+            "order": 0,
+            "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
+            "title": "Demo \/ Examples",
+            "description": "We'll start with three unique examples (that we've all done).A slide player. This site is a testbed but illustrates a simple back and forth navigational pattern.A blog website, my own blog in fac",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552452320
+            }
+        },
+        {
+            "id": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
+            "indent": 1,
+            "location": "pages\/what-makes-a-site-\/index.html",
+            "order": 1,
+            "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
+            "title": "What makes a \"site\"",
+            "description": "There are a few basic ingredients that make up and HAXcms website:HAXeditor is used to modify the contentWeb components make up the body of contentAll \"content\" is housed under a folder in pages\/pa",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552452739,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/HAXCms workflow-1.jpg",
+                        "fullUrl": "\/_sites\/webinar\/files\/HAXCms workflow-1.jpg",
+                        "url": "files\/HAXCms workflow-1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "HAXCms workflow-1.jpg",
+                        "size": 72736
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-6898a99a-ed99-4e9b-a6df-5e4a838bf6a4",
+            "indent": 2,
+            "location": "pages\/json-outline-schema\/index.html",
+            "order": 0,
+            "parent": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
+            "title": "JSON Outline Schema",
+            "description": "JSON Outline SchemaJSON Outline Schema is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related ",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552452800
+            }
+        },
+        {
+            "id": "item-35071f8e-2fe1-4eb8-8fc0-ff6d7d327f82",
+            "indent": 2,
+            "location": "pages\/web-components-html-index-html\/index.html",
+            "order": 1,
+            "parent": "item-904f3a68-7d4b-461b-ae26-92544340afaf",
+            "title": "Web components + HTML = index.html",
+            "description": "HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453111,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-22-48.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-01-27_10-22-48.png",
+                        "url": "files\/2019-01-27_10-22-48.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-22-48.png",
+                        "size": 31686
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-10-39.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-01-27_10-10-39.png",
+                        "url": "files\/2019-01-27_10-10-39.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-10-39.png",
+                        "size": 36049
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-25-22.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-01-27_10-25-22.png",
+                        "url": "files\/2019-01-27_10-25-22.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-25-22.png",
+                        "size": 104216
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-22-28.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-01-27_10-22-28.png",
+                        "url": "files\/2019-01-27_10-22-28.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-22-28.png",
+                        "size": 31306
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-10-58.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-01-27_10-10-58.png",
+                        "url": "files\/2019-01-27_10-10-58.png",
+                        "type": "image\/png",
+                        "name": "2019-01-27_10-10-58.png",
+                        "size": 19304
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-f89da0bb-1852-4b3d-9dc6-58a1294019ed",
+            "indent": 1,
+            "location": "pages\/publishing\/index.html",
+            "order": 2,
+            "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
+            "title": "Publishing",
+            "description": "HAXcms requires being published in order to be visible by users. Working locally or on Desktop or on a server is akin to you writing a document on your computer. It's not shared with anyone. Then, whe",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453179,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-02-20_01-26-10.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-02-20_01-26-10.png",
+                        "url": "files\/2019-02-20_01-26-10.png",
+                        "type": "image\/png",
+                        "name": "2019-02-20_01-26-10.png",
+                        "size": 59026
+                    },
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-02-20_01-26-01.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-02-20_01-26-01.png",
+                        "url": "files\/2019-02-20_01-26-01.png",
+                        "type": "image\/png",
+                        "name": "2019-02-20_01-26-01.png",
+                        "size": 19448
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-2da0b8e4-1d5c-4137-8a7d-37978f39ca96",
+            "indent": 1,
+            "location": "pages\/theme-layer\/index.html",
+            "order": 3,
+            "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
+            "title": "Theme layer",
+            "description": "Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453226
+            }
+        },
+        {
+            "id": "item-b3ef6823-6587-4cb1-b8c2-3f660428c28e",
+            "indent": 2,
+            "location": "pages\/special-elements\/index.html",
+            "order": 0,
+            "parent": "item-2da0b8e4-1d5c-4137-8a7d-37978f39ca96",
+            "title": "Special elements",
+            "description": "While you're not required to use them, HAXcms supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of h",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453325,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-03-12_16-45-51-1.png",
+                        "fullUrl": "\/_sites\/webinar\/files\/2019-03-12_16-45-51-1.png",
+                        "url": "files\/2019-03-12_16-45-51-1.png",
+                        "type": "image\/png",
+                        "name": "2019-03-12_16-45-51-1.png",
+                        "size": 212153
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-48bb11c5-f926-4b5b-ab58-e6870a8684ef",
+            "indent": 2,
+            "location": "pages\/state-management\/index.html",
+            "order": 1,
+            "parent": "item-2da0b8e4-1d5c-4137-8a7d-37978f39ca96",
+            "title": "State management",
+            "description": "HAXcms utilizes a library called mobx in order to do its state management. HAXcms (and HAXeditor) follow the design paradigm promoted by Google's Polymer project of Props down, Events up.Meaning t",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453958
+            }
+        },
+        {
+            "id": "item-6fd597e3-bc8f-4948-8ee4-207742a52b2a",
+            "indent": 0,
+            "location": "pages\/roadmap\/index.html",
+            "order": 4,
+            "parent": null,
+            "title": "Roadmap",
+            "description": "ELMS:LN has it's own roadmap but HAX as a whole has derailed it quite a bit given it's potential for the open web and impacts it will have on the ELMS:LN roadmap as far as authoring and user experienc",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453470
+            }
+        },
+        {
+            "id": "item-49f676eb-308e-4b34-8531-b90ad44ade58",
+            "indent": 1,
+            "location": "pages\/haxeditor-1\/index.html",
+            "order": 0,
+            "parent": "item-6fd597e3-bc8f-4948-8ee4-207742a52b2a",
+            "title": "HAXeditor",
+            "description": "Integrate ES6 version with ELMS:LN (March '19)Improve mobile editing experience (March '19)Improve Grid plate \/ responsive design capabilities (April '19)Table editing capabilities (April\u00a0'19)",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552453824
+            }
+        },
+        {
+            "id": "item-949cf23f-1cb2-4613-b07c-afa19df38a8e",
+            "indent": 1,
+            "location": "pages\/haxcms-1\/index.html",
+            "order": 1,
+            "parent": "item-6fd597e3-bc8f-4948-8ee4-207742a52b2a",
+            "title": "HAXcms",
+            "description": "Create additional \"site-\" core theme elements making it easier to theme HAXcms and produce new themes (March '19)Support multiple Import formats including WordPress, Drupal, Gitbook, GravCMS and mo",
+            "metadata": {
+                "created": 1552449903,
+                "updated": 1552454256
             }
         }
     ]
