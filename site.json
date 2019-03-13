@@ -485,10 +485,10 @@
             "order": 1,
             "parent": "item-5789b296-bf13-4bc2-9604-e89d2fc5459d",
             "title": "Philosophy of design",
-            "description": "",
+            "description": "Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA",
             "metadata": {
                 "created": 1552484725,
-                "updated": 1552484770
+                "updated": 1552485097
             }
         }
     ]

@@ -275,13 +275,13 @@
   <entry>
     <title>Philosophy of design</title>
     <id>/philosophy-of-design</id>
-    <updated>2019-03-13T13:46:10+00:00</updated>
+    <updated>2019-03-13T13:51:37+00:00</updated>
     <published>2019-03-13T13:45:25+00:00</published>
-    <summary></summary>
+    <summary>Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA</summary>
     <link href="/philosophy-of-design"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA ]]>
     </content>
   </entry>
 </feed>
