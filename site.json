@@ -129,10 +129,10 @@
             "order": 2,
             "parent": null,
             "title": "HAXEditor",
-            "description": "",
+            "description": "HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor \/ TinyMCE equivalent, but implemented and extended via the w",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552451287
             }
         },
         {

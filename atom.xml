@@ -59,13 +59,13 @@
   <entry>
     <title>HAXEditor</title>
     <id>https://btopro.github.io/apereo-webinar/haxeditor</id>
-    <updated>2019-03-13T04:05:03+00:00</updated>
+    <updated>2019-03-13T04:28:07+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
-    <summary></summary>
+    <summary>HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor / TinyMCE equivalent, but implemented and extended via the w</summary>
     <link href="https://btopro.github.io/apereo-webinar/haxeditor"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor / TinyMCE equivalent, but implemented and extended via the w ]]>
     </content>
   </entry>
   <entry>
