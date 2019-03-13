@@ -233,7 +233,7 @@
             "description": "HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552453005,
+                "updated": 1552453084,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-01-27_10-22-48.png",
