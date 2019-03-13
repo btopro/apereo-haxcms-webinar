@@ -1,7 +1,7 @@
 {
-    "name": "Apereo webinar",
-    "short_name": "webinar",
-    "description": "Apereo HAXcms webinar",
+    "name": "{{ title }}",
+    "short_name": "{{ short }}",
+    "description": "{{ description }}",
     "icons": [
         {
             "src": "assets\/android-icon-36x36.png",
@@ -46,9 +46,9 @@
             "density": "4.0"
         }
     ],
-    "scope": "/",
-    "start_url": "/",
+    "scope": "{{ basePath }}",
+    "start_url": "{{ basePath }}",
     "display": "standalone",
-    "theme_color": "#0059ff",
-    "background_color": "#0059ff"
+    "theme_color": "{{ hexCode }}",
+    "background_color": "{{ hexCode }}"
 }
