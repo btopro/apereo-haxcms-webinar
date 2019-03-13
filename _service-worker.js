@@ -37,80 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [
-    [
-        "pages\/item-f09b6bde-8ac9-47b8-913c-089be98cb67f\/index.html",
-        "cq0qSi0pOi4Y05leLMYV7A"
-    ],
-    [
-        "",
-        "PDWkB8lBVJx6u2CyPqiA"
-    ],
-    [
-        "\/",
-        "P5auZwCre9BpuamoxIP5VQ"
-    ],
-    [
-        "index.html",
-        "ergJ836yN6uKU7tzJ7MmVg"
-    ],
-    [
-        "manifest.json",
-        "AGfHdezXINXD6lrtRwTEw"
-    ],
-    [
-        "site.json",
-        "AIowIdeHQdHZqDGf32s2w"
-    ],
-    [
-        "assets\/favicon.ico",
-        "HaBSbnoy8mFDNU595Wburg"
-    ],
-    [
-        "404.html",
-        "dSqOj2FfwLtvzh03W3Gyg"
-    ],
-    [
-        "files\/HAXCms workflow-1.jpg",
-        "eSb57nF0S0LF5WUkc1JKBQ"
-    ],
-    [
-        "files\/2019-01-27_10-10-39.png",
-        "wILedZJIMsevf3B9Q6JnFw"
-    ],
-    [
-        "files\/2019-01-27_10-22-48.png",
-        "i3RibHTk0kxkChXembJFGg"
-    ],
-    [
-        "files\/2019-03-12_16-45-51-1.png",
-        "9sEib60Ud5V45SRrR9DmKQ"
-    ],
-    [
-        "files\/ngdle-elms.png",
-        "r0fqw3XJW2oatLUdNQvKQ"
-    ],
-    [
-        "files\/2019-01-27_10-10-58.png",
-        "VdWRH9717QXDzDu6e9imug"
-    ],
-    [
-        "files\/2019-01-27_10-22-28.png",
-        "sTnTmDnmLQ9zb7lJUvukg"
-    ],
-    [
-        "files\/2019-02-20_01-26-10.png",
-        "vmeIeTNm1hK7GRG3Zwjp1A"
-    ],
-    [
-        "files\/2019-01-27_10-25-22.png",
-        "4eYa7xjiWdQ59ehcX3XGw"
-    ],
-    [
-        "files\/2019-02-20_01-26-01.png",
-        "xRAxgZYXkmteGfclP7WQg"
-    ]
-];
+var precacheConfig = {{ swhash|json_encode(constant('JSON_PRETTY_PRINT'))|raw }};
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
 
 
@@ -359,4 +286,4 @@ self.addEventListener('fetch', function (event) {
 
 // Runtime cache configuration, using the sw-toolbox library.
 
-toolbox.router.get(/(https?:\/\/webcomponents\.psu\.edu(\/[A-Za-z0-9\-\._~:\/\?#\[\]@!$&'\(\)\*\+,;\=]*)?)/, toolbox.fastest, {});
+toolbox.router.get(/{{ cdnRegex|raw }}/, toolbox.fastest, {});
