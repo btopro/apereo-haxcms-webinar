@@ -285,10 +285,10 @@
             "order": 2,
             "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
             "title": "Publishing",
-            "description": "",
+            "description": "HAXcms requires being published in order to be visible by users. Working locally or on Desktop or on a server is akin to you writing a document on your computer. It's not shared with anyone. Then, whe",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903,
+                "updated": 1552453179,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/2019-02-20_01-26-10.png",
