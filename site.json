@@ -5,8 +5,7 @@
     "description": "Apereo HAXcms webinar",
     "license": "by-sa",
     "metadata": {
-        "siteName": "webinar",
-        "domain": "https:\/\/btopro.github.io\/apereo-haxcms-webinar",
+        "siteName": "apereo-haxcms-webinar",
         "created": 1552449560,
         "updated": 1552449965,
         "theme": {
@@ -58,7 +57,7 @@
             "wave-player": "@lrnwebcomponents\/wave-player\/wave-player.js",
             "wikipedia-query": "@lrnwebcomponents\/wikipedia-query\/wikipedia-query.js"
         },
-        "lastPublished": 1552454522
+        "lastPublished": 1552455061
     },
     "items": [
         {
