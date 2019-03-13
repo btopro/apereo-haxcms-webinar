@@ -391,10 +391,10 @@
             "order": 1,
             "parent": "item-6fd597e3-bc8f-4948-8ee4-207742a52b2a",
             "title": "HAXcms",
-            "description": "",
+            "description": "Create additional \"site-\" core theme elements making it easier to theme HAXcms and produce new themes (March '19)Support multiple Import formats including WordPress, Drupal, Gitbook, GravCMS and mo",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552454256
             }
         }
     ]
