@@ -194,10 +194,10 @@
             "order": 1,
             "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
             "title": "What makes a \"site\"",
-            "description": "",
+            "description": "There are a few basic ingredients that make up and HAXcms website:HAXeditor is used to modify the contentWeb components make up the body of contentAll \"content\" is housed under a folder in pages\/pa",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903,
+                "updated": 1552452739,
                 "files": [
                     {
                         "path": "\/var\/www\/html\/_sites\/webinar\/files\/HAXCms workflow-1.jpg",
