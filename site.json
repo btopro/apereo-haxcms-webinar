@@ -1,22 +1,22 @@
 {
     "id": "2a41988b-f670-47d0-ad12-36d944108145",
-    "title": "webinar",
+    "title": "Apereo webinar",
     "author": "",
-    "description": "",
+    "description": "Apereo HAXcms webinar",
     "license": "by-sa",
     "metadata": {
         "siteName": "webinar",
-        "domain": "https:\/\/btopro.github.io\/webinar",
+        "domain": "https:\/\/btopro.github.io\/apereo-webinar",
         "created": 1552449560,
-        "updated": 1552449903,
+        "updated": 1552449965,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
             "name": "Learn2"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#aeff00",
-        "cssVariable": "--simple-colors-default-theme-light-blue-7",
+        "hexCode": "#0059ff",
+        "cssVariable": "blue",
         "publishing": {
             "git": {
                 "vendor": "github",
