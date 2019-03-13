@@ -167,13 +167,13 @@
   <entry>
     <title>Theme layer</title>
     <id>https://btopro.github.io/apereo-webinar/theme-layer</id>
-    <updated>2019-03-13T04:05:03+00:00</updated>
+    <updated>2019-03-13T05:00:26+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
-    <summary></summary>
+    <summary>Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see</summary>
     <link href="https://btopro.github.io/apereo-webinar/theme-layer"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see ]]>
     </content>
   </entry>
   <entry>

@@ -316,10 +316,10 @@
             "order": 3,
             "parent": "item-9103145c-d969-412b-b579-4e099b567d43",
             "title": "Theme layer",
-            "description": "",
+            "description": "Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552453226
             }
         },
         {
