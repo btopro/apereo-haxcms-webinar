@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Apereo webinar</title>
-  <link href="https://btopro.github.io/apereo-webinar/atom.xml" rel="self" />
+  <link href="https://btopro.github.io/apereo-haxcms-webinar/atom.xml" rel="self" />
   <subtitle>Apereo HAXcms webinar</subtitle>
   <updated>2019-03-13T04:06:05+00:00</updated>
   <author>
-      <name></name>
+      <name>Bryan Ollendyke</name>
   </author>
-  <id>https://btopro.github.io/apereo-webinar/feed</id>
+  <id>https://btopro.github.io/apereo-haxcms-webinar/feed</id>
   <entry>
     <title>ELMSLN</title>
-    <id>https://btopro.github.io/apereo-webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f</id>
     <updated>2019-03-13T04:16:45+00:00</updated>
     <published>2019-03-13T03:59:19+00:00</published>
     <summary>But you work on that project don't you?ELMS:LN is a series of projects, an umbrella term.Yes, it is in pursuit of NGDLE efforts.Yes, it is it's own code base and platform.Yes though, we pursue man</summary>
-    <link href="https://btopro.github.io/apereo-webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/item-f09b6bde-8ac9-47b8-913c-089be98cb67f"/>
     
     <content type="html">
       <![CDATA[ But you work on that project don't you?ELMS:LN is a series of projects, an umbrella term.Yes, it is in pursuit of NGDLE efforts.Yes, it is it's own code base and platform.Yes though, we pursue man ]]>
@@ -22,11 +22,11 @@
   </entry>
   <entry>
     <title>HAX</title>
-    <id>https://btopro.github.io/apereo-webinar/hax</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/hax</id>
     <updated>2019-03-13T04:29:43+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>What is HAX?HAX is short for Headless Authoring eXperience. It is a solution implemented via the web component standard which seeks to create the ultimate authoring solution for the web and impleme</summary>
-    <link href="https://btopro.github.io/apereo-webinar/hax"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/hax"/>
     
     <content type="html">
       <![CDATA[ What is HAX?HAX is short for Headless Authoring eXperience. It is a solution implemented via the web component standard which seeks to create the ultimate authoring solution for the web and impleme ]]>
@@ -34,11 +34,11 @@
   </entry>
   <entry>
     <title>Why</title>
-    <id>https://btopro.github.io/apereo-webinar/why</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/why</id>
     <updated>2019-03-13T04:25:50+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Why? Well... Why is WordPress easier for authors to understand than Drupal?Why is Canvas easier to adopt then Sakai?Why is SquareSpace so popular that people forget it locks them into that platform </summary>
-    <link href="https://btopro.github.io/apereo-webinar/why"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/why"/>
     
     <content type="html">
       <![CDATA[ Why? Well... Why is WordPress easier for authors to understand than Drupal?Why is Canvas easier to adopt then Sakai?Why is SquareSpace so popular that people forget it locks them into that platform  ]]>
@@ -46,11 +46,11 @@
   </entry>
   <entry>
     <title>Philosophy</title>
-    <id>https://btopro.github.io/apereo-webinar/philosophy</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/philosophy</id>
     <updated>2019-03-13T04:26:51+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA</summary>
-    <link href="https://btopro.github.io/apereo-webinar/philosophy"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/philosophy"/>
     
     <content type="html">
       <![CDATA[ Support any platform (CMS, App, etc) that supports the Web components standardEmpower authors to write a lot of code without ever looking at itAll content produced should work with or without HA ]]>
@@ -58,11 +58,11 @@
   </entry>
   <entry>
     <title>HAXEditor</title>
-    <id>https://btopro.github.io/apereo-webinar/haxeditor</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/haxeditor</id>
     <updated>2019-03-13T04:28:07+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor / TinyMCE equivalent, but implemented and extended via the w</summary>
-    <link href="https://btopro.github.io/apereo-webinar/haxeditor"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/haxeditor"/>
     
     <content type="html">
       <![CDATA[ HAX is broken into many pieces; the most common one for authors to expect is the HAXeditor.HAXeditor is the purely decentralized, CKEditor / TinyMCE equivalent, but implemented and extended via the w ]]>
@@ -70,11 +70,11 @@
   </entry>
   <entry>
     <title>Integrations</title>
-    <id>https://btopro.github.io/apereo-webinar/integrations</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/integrations</id>
     <updated>2019-03-13T04:28:41+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAX provides plenty of ways to integrate into the platforms you already use! Here's a list of currently supported ones with links off to their associated pluginsHAXcms (duh, it's powering this websit</summary>
-    <link href="https://btopro.github.io/apereo-webinar/integrations"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/integrations"/>
     
     <content type="html">
       <![CDATA[ HAX provides plenty of ways to integrate into the platforms you already use! Here's a list of currently supported ones with links off to their associated pluginsHAXcms (duh, it's powering this websit ]]>
@@ -82,11 +82,11 @@
   </entry>
   <entry>
     <title>Making new elements</title>
-    <id>https://btopro.github.io/apereo-webinar/making-new-elements</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/making-new-elements</id>
     <updated>2019-03-13T04:34:33+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Let's see what goes into the element called @lrnwebcomponents/example-hax-element in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents/example-hax-element/e</summary>
-    <link href="https://btopro.github.io/apereo-webinar/making-new-elements"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/making-new-elements"/>
     
     <content type="html">
       <![CDATA[ Let's see what goes into the element called @lrnwebcomponents/example-hax-element in order to learn how we can wire anything up to HAXeditor.@lrnwebcomponents/example-hax-element/e ]]>
@@ -94,11 +94,11 @@
   </entry>
   <entry>
     <title>HAXcms</title>
-    <id>https://btopro.github.io/apereo-webinar/haxcms</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/haxcms</id>
     <updated>2019-03-13T04:39:50+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>So if there's HAXeditor... then what's HAXcms you might ask (the name of the webinar...)?HAXcms is a CMS built on the concept of what the lightest weight, static CMS could possibly be if...We have a</summary>
-    <link href="https://btopro.github.io/apereo-webinar/haxcms"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/haxcms"/>
     
     <content type="html">
       <![CDATA[ So if there's HAXeditor... then what's HAXcms you might ask (the name of the webinar...)?HAXcms is a CMS built on the concept of what the lightest weight, static CMS could possibly be if...We have a ]]>
@@ -106,11 +106,11 @@
   </entry>
   <entry>
     <title>Demo / Examples</title>
-    <id>https://btopro.github.io/apereo-webinar/demo-/-examples</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/demo-/-examples</id>
     <updated>2019-03-13T04:45:20+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>We'll start with three unique examples (that we've all done).A slide player. This site is a testbed but illustrates a simple back and forth navigational pattern.A blog website, my own blog in fac</summary>
-    <link href="https://btopro.github.io/apereo-webinar/demo-/-examples"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/demo-/-examples"/>
     
     <content type="html">
       <![CDATA[ We'll start with three unique examples (that we've all done).A slide player. This site is a testbed but illustrates a simple back and forth navigational pattern.A blog website, my own blog in fac ]]>
@@ -118,11 +118,11 @@
   </entry>
   <entry>
     <title>What makes a "site"</title>
-    <id>https://btopro.github.io/apereo-webinar/what-makes-a-site-</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/what-makes-a-site-</id>
     <updated>2019-03-13T04:52:19+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>There are a few basic ingredients that make up and HAXcms website:HAXeditor is used to modify the contentWeb components make up the body of contentAll "content" is housed under a folder in pages/pa</summary>
-    <link href="https://btopro.github.io/apereo-webinar/what-makes-a-site-"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/what-makes-a-site-"/>
     
     <content type="html">
       <![CDATA[ There are a few basic ingredients that make up and HAXcms website:HAXeditor is used to modify the contentWeb components make up the body of contentAll "content" is housed under a folder in pages/pa ]]>
@@ -130,11 +130,11 @@
   </entry>
   <entry>
     <title>JSON Outline Schema</title>
-    <id>https://btopro.github.io/apereo-webinar/json-outline-schema</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/json-outline-schema</id>
     <updated>2019-03-13T04:53:20+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>JSON Outline SchemaJSON Outline Schema is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related </summary>
-    <link href="https://btopro.github.io/apereo-webinar/json-outline-schema"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/json-outline-schema"/>
     
     <content type="html">
       <![CDATA[ JSON Outline SchemaJSON Outline Schema is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related  ]]>
@@ -142,11 +142,11 @@
   </entry>
   <entry>
     <title>Web components + HTML = index.html</title>
-    <id>https://btopro.github.io/apereo-webinar/web-components-html-index-html</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/web-components-html-index-html</id>
     <updated>2019-03-13T04:58:31+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA</summary>
-    <link href="https://btopro.github.io/apereo-webinar/web-components-html-index-html"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/web-components-html-index-html"/>
     
     <content type="html">
       <![CDATA[ HAXeditor can be used in HAXcms to save content of any page which contains a mix of traditional HTML elements and Custom Elements (as per V1 specification). Any web component can be wired up to the HA ]]>
@@ -154,11 +154,11 @@
   </entry>
   <entry>
     <title>Publishing</title>
-    <id>https://btopro.github.io/apereo-webinar/publishing</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/publishing</id>
     <updated>2019-03-13T04:59:39+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>HAXcms requires being published in order to be visible by users. Working locally or on Desktop or on a server is akin to you writing a document on your computer. It's not shared with anyone. Then, whe</summary>
-    <link href="https://btopro.github.io/apereo-webinar/publishing"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/publishing"/>
     
     <content type="html">
       <![CDATA[ HAXcms requires being published in order to be visible by users. Working locally or on Desktop or on a server is akin to you writing a document on your computer. It's not shared with anyone. Then, whe ]]>
@@ -166,11 +166,11 @@
   </entry>
   <entry>
     <title>Theme layer</title>
-    <id>https://btopro.github.io/apereo-webinar/theme-layer</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/theme-layer</id>
     <updated>2019-03-13T05:00:26+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see</summary>
-    <link href="https://btopro.github.io/apereo-webinar/theme-layer"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/theme-layer"/>
     
     <content type="html">
       <![CDATA[ Writing themes for HAXcms is trivial if you know web components. We've also written the wcfactory tooling in order to improve the development and management of web component libraries at scale (see ]]>
@@ -178,11 +178,11 @@
   </entry>
   <entry>
     <title>Special elements</title>
-    <id>https://btopro.github.io/apereo-webinar/special-elements</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/special-elements</id>
     <updated>2019-03-13T05:02:05+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>While you're not required to use them, HAXcms supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of h</summary>
-    <link href="https://btopro.github.io/apereo-webinar/special-elements"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/special-elements"/>
     
     <content type="html">
       <![CDATA[ While you're not required to use them, HAXcms supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of h ]]>
@@ -190,11 +190,11 @@
   </entry>
   <entry>
     <title>State management</title>
-    <id>https://btopro.github.io/apereo-webinar/state-management</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/state-management</id>
     <updated>2019-03-13T04:05:03+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/apereo-webinar/state-management"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/state-management"/>
     
     <content type="html">
       <![CDATA[  ]]>
@@ -202,11 +202,11 @@
   </entry>
   <entry>
     <title>Roadmap</title>
-    <id>https://btopro.github.io/apereo-webinar/roadmap</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/roadmap</id>
     <updated>2019-03-13T05:04:30+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary>ELMS:LN has it's own roadmap but HAX as a whole has derailed it quite a bit given it's potential for the open web and impacts it will have on the ELMS:LN roadmap as far as authoring and user experienc</summary>
-    <link href="https://btopro.github.io/apereo-webinar/roadmap"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/roadmap"/>
     
     <content type="html">
       <![CDATA[ ELMS:LN has it's own roadmap but HAX as a whole has derailed it quite a bit given it's potential for the open web and impacts it will have on the ELMS:LN roadmap as far as authoring and user experienc ]]>
@@ -214,23 +214,23 @@
   </entry>
   <entry>
     <title>HAXeditor</title>
-    <id>https://btopro.github.io/apereo-webinar/haxeditor-1</id>
-    <updated>2019-03-13T04:05:03+00:00</updated>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/haxeditor-1</id>
+    <updated>2019-03-13T05:10:05+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
-    <summary></summary>
-    <link href="https://btopro.github.io/apereo-webinar/haxeditor-1"/>
+    <summary>Integrate ES6 version with ELMS:LN (March '19)Improve mobile editing experience (March '19)Improve Grid plate / responsive design capabilities (April '19)Table editing capabilities (April '19)Imp</summary>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/haxeditor-1"/>
     
     <content type="html">
-      <![CDATA[  ]]>
+      <![CDATA[ Integrate ES6 version with ELMS:LN (March '19)Improve mobile editing experience (March '19)Improve Grid plate / responsive design capabilities (April '19)Table editing capabilities (April '19)Imp ]]>
     </content>
   </entry>
   <entry>
     <title>HAXcms</title>
-    <id>https://btopro.github.io/apereo-webinar/haxcms-1</id>
+    <id>https://btopro.github.io/apereo-haxcms-webinar/haxcms-1</id>
     <updated>2019-03-13T04:05:03+00:00</updated>
     <published>2019-03-13T04:05:03+00:00</published>
     <summary></summary>
-    <link href="https://btopro.github.io/apereo-webinar/haxcms-1"/>
+    <link href="https://btopro.github.io/apereo-haxcms-webinar/haxcms-1"/>
     
     <content type="html">
       <![CDATA[  ]]>
