@@ -4,6 +4,7 @@
 JSON Outline Schema</a>
 
 
+
  is a standard way of expressing and storing the relation between objects. It gives you a simple way of linking data together to form an outline of related concepts / entities. Here is an example of a JSON Outline schema entity:</p>
 <code-sample copy-clipboard-button="copy-clipboard-button">  <template preserve-content="preserve-content">{
   "id": "unique-id-of-the-item-1",
@@ -64,43 +65,57 @@ JSON Outline Schema</a>
 <ul><li>`<b>title</b>
 
 
+
 ` - name of the work as a whole</li>
+
 
 
 <li>`<b>author</b>
 
 
+
 ` - who created this work</li>
+
 
 
 <li>`<b>description</b>
 
 
+
 ` - short description of the work to explain it</li>
+
 
 
 <li>`<b>license</b>
 
 
+
 ` - a valid license short hard for the work as a whole</li>
+
 
 
 <li>`<b>metadata</b>
 
 
+
 ` - area to storing any additional details about the work. This has no standard structure but could be used for relating work if needed.</li>
+
 
 
 <li>`<b>id</b>
 
 
+
 ` - a unique identifier for this work in the universe of all works</li>
+
 
 
 <li>`<b>items</b>
 
 
+
 ` - an array of schema elements which contain the pages / leaves of the structure of this outline</li>
+
 
 
 </ul>
@@ -108,49 +123,66 @@ JSON Outline Schema</a>
 <ul><li><span style="font-weight: normal;">`</span><b>id</b>
 
 
+
 <span style="font-weight: normal;">` - the UUID / unique ID of the element</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>indent</b>
 
 
+
 <span style="font-weight: normal;">` - How far to visually position the item inward. You could have something be the parent as a page but visually only be indented 2 levels</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>location</b>
 
 
+
 <span style="font-weight: normal;">` - a file or resource that references the related data to display here</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>order</b>
 
 
+
 <span style="font-weight: normal;">` - a weighting as to the order relative to other items that match this parent level</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>parent</b>
 
 
+
 <span style="font-weight: normal;">` - a UUID / unique ID of the element this is a child of</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>title</b>
 
 
+
 <span style="font-weight: normal;">` - title of this item to display</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>description</b>
 
 
+
 <span style="font-weight: normal;">` - short description of the item to explain it</span></li>
+
 
 
 <li><span style="font-weight: normal;">`</span><b>metadata</b>
 
 
+
 <span style="font-weight: normal;">` - a container for any additional details of information you need to ship. This has no standard structure</span></li>
 
 
+
 </ul>
+<meme-maker alt="annoyed dog GIF" image-url="https://media0.giphy.com/media/YIW0KqAQShjCE/giphy.gif" top-text="Yet another..." bottom-text="JSON standard" style="width: 50%;"></meme-maker>
