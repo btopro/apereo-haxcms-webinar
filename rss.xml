@@ -162,7 +162,7 @@
       <title>State management</title>
       <link>https://btopro.github.io/apereo-haxcms-webinar/state-management</link>
       <description>
-          <![CDATA[  ]]>
+          <![CDATA[ HAXcms utilizes a library called mobx in order to do its state management. HAXcms (and HAXeditor) follow the design paradigm promoted by Google's Polymer project of Props down, Events up.Meaning t ]]>
       </description>
       <category></category>
       <guid>https://btopro.github.io/apereo-haxcms-webinar/state-management</guid>

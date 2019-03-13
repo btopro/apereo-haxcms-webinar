@@ -352,10 +352,10 @@
             "order": 1,
             "parent": "item-2da0b8e4-1d5c-4137-8a7d-37978f39ca96",
             "title": "State management",
-            "description": "",
+            "description": "HAXcms utilizes a library called mobx in order to do its state management. HAXcms (and HAXeditor) follow the design paradigm promoted by Google's Polymer project of Props down, Events up.Meaning t",
             "metadata": {
                 "created": 1552449903,
-                "updated": 1552449903
+                "updated": 1552453958
             }
         },
         {
