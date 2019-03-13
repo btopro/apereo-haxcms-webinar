@@ -433,7 +433,17 @@
             "description": "",
             "metadata": {
                 "created": 1552484725,
-                "updated": 1552484770
+                "updated": 1552484770,
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/_sites\/apereo-haxcms-webinar\/files\/2019-03-13_09-46-58.png",
+                        "fullUrl": "\/_sites\/apereo-haxcms-webinar\/files\/2019-03-13_09-46-58.png",
+                        "url": "files\/2019-03-13_09-46-58.png",
+                        "type": "image\/png",
+                        "name": "2019-03-13_09-46-58.png",
+                        "size": 382208
+                    }
+                ]
             }
         },
         {
